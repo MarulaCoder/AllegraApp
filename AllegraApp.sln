@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{44A05016-4782-480B-8DA0-056BDEA21784}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{F2B731CC-8090-429E-9AE7-B3B8051377CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{84535B36-883F-4C27-8CCD-08EF3AC07618}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheService", "CacheService\CacheService.csproj", "{030C8C30-652A-4218-8968-F340033F5870}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllegraWebApi", "AllegraWebApi\AllegraWebApi.csproj", "{9A715936-8190-4F1F-A65C-4448CD66CEF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllegraMVCApp", "AllegraMVCApp\AllegraMVCApp.csproj", "{1BD9F553-028C-4168-9858-5AD85F35DC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A05016-4782-480B-8DA0-056BDEA21784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A05016-4782-480B-8DA0-056BDEA21784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A05016-4782-480B-8DA0-056BDEA21784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A05016-4782-480B-8DA0-056BDEA21784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B731CC-8090-429E-9AE7-B3B8051377CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B731CC-8090-429E-9AE7-B3B8051377CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B731CC-8090-429E-9AE7-B3B8051377CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B731CC-8090-429E-9AE7-B3B8051377CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84535B36-883F-4C27-8CCD-08EF3AC07618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84535B36-883F-4C27-8CCD-08EF3AC07618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84535B36-883F-4C27-8CCD-08EF3AC07618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84535B36-883F-4C27-8CCD-08EF3AC07618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030C8C30-652A-4218-8968-F340033F5870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030C8C30-652A-4218-8968-F340033F5870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030C8C30-652A-4218-8968-F340033F5870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030C8C30-652A-4218-8968-F340033F5870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A715936-8190-4F1F-A65C-4448CD66CEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A715936-8190-4F1F-A65C-4448CD66CEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A715936-8190-4F1F-A65C-4448CD66CEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A715936-8190-4F1F-A65C-4448CD66CEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD9F553-028C-4168-9858-5AD85F35DC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD9F553-028C-4168-9858-5AD85F35DC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD9F553-028C-4168-9858-5AD85F35DC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD9F553-028C-4168-9858-5AD85F35DC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B46178-C674-4E9D-B553-E97A112CCD15}
+	EndGlobalSection
+EndGlobal

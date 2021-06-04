@@ -1,0 +1,22 @@
+﻿@model AllegraMVCApp.Models.ServiceApiResponse
+
+@{
+    ViewBag.Title = "Error occurred";
+}
+
+<h1>We have a problem</h1>
+
+<p>Sorry, an error occurred while executing your request.</p>
+
+<p>
+    <strong>Title : </strong> <code>@Model.Title</code>
+</p>
+<p>
+    <strong>Status Code : </strong> <code>@Model.Status</code>
+</p>
+<p>
+    <strong>Reason : </strong> <code>@Model.ReasonPhrase</code>
+</p>
+<p>
+    <strong>TraceID : </strong> <code>@Model.TraceId</code>
+</p>
